@@ -1,4 +1,4 @@
-package com.example.myshop
+package com.example.myshop.api
 
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
